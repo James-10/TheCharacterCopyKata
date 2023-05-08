@@ -6,8 +6,7 @@ In the interest of better understanding test-doubles and mocking libraries (like
 destination. It must copy and write one character at a time.
 
 To do this a Copier class that takes in a ISource and IDestination. ISource has the methods
-char ReadChar(), char[] ReadChars(int count) and IDestination has the methods void WriteChar(char c), void WriteChars(char[] values). The Copier class has methods
-method void Copy() and CopyChars(int count) that when called reads from the ISource writes to
+char ReadChar(), char[] ReadChars(int count) and IDestination has the methods void WriteChar(char c), void WriteChars(char[] values). The Copier class has the methods void Copy() and CopyChars(int count) that when called reads from the ISource writes to
 IDestination.
 
 The copying and writing is done character at a time until a newline (‘\n’) is encountered. Then the
