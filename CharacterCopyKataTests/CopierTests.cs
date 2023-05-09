@@ -21,7 +21,7 @@ namespace TheKataTesting
         }
 
         [Test]
-        public void Copy()
+        public void Copy_Char()
         {
             //arrange
             const char V = 'c';

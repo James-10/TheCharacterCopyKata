@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/iHFeseTFafgKarRndsxnVsG4Wg67rlC4b+EdvohQB+b6VLKyF+Hb+kqP6azWH2TJNeO06mPhkgh29ULeJccQw==",
+  "dgSpecHash": "GKvWBqJp8QlrMzqm1a6Z4rZauyHM5vpvwh6A2oLyXz4M6pVluntVnW7QfHOl0VvT6BuI8zsylmRlR9GiABpPMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj",
+  "projectFilePath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\James Ockhuis\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\James Ockhuis\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
