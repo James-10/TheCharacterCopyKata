@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
+      "projectUniqueName": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
       "projectName": "CharacterCopyKata",
-      "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
+      "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
       "packagesPath": "C:\\Users\\James Ockhuis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\obj\\",
+      "outputPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\James Ockhuis\\AppData\\Roaming\\NuGet\\NuGet.Config",

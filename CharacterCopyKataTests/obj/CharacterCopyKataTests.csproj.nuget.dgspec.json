@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj": {}
+    "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj": {
+    "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj",
+        "projectUniqueName": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj",
         "projectName": "CharacterCopyKataTests",
-        "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj",
+        "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKataTests\\CharacterCopyKataTests.csproj",
         "packagesPath": "C:\\Users\\James Ockhuis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKataTests\\obj\\",
+        "outputPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKataTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James Ockhuis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj": {
-                "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj"
+              "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj": {
+                "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj": {
+    "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
+        "projectUniqueName": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
         "projectName": "CharacterCopyKata",
-        "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
+        "projectPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\CharacterCopyKata.csproj",
         "packagesPath": "C:\\Users\\James Ockhuis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Desktop\\CharacterCopyKata\\CharacterCopyKata\\obj\\",
+        "outputPath": "C:\\Users\\James Ockhuis\\OneDrive - Adendorffs\\Documents\\01-Personal\\CSharp\\TheCharacterCopyKata\\CharacterCopyKata\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James Ockhuis\\AppData\\Roaming\\NuGet\\NuGet.Config",
